@@ -1,9 +1,13 @@
+### Hi there 👋
+
+- 🔭 I’m currently working on Find a Stick. A mobile app to help people find manual transmission vehicles, written in Flutter.
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=domtom1126&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domtom1126&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Hi there 👋
 
 <!--
 **domtom1126/domtom1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
